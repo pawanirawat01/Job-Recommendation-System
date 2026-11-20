@@ -1,0 +1,17 @@
+
+title,company,location,experience,education,skills
+Data Analyst,TechNova,Bangalore,Fresher,BCA;MCA;B.Tech;BSc,Python;SQL;Excel;Power BI
+Junior Data Analyst,InfoBridge,Hyderabad,Fresher,BCA;MCA;BSc,SQL;Excel;Statistics;Tableau
+Machine Learning Engineer,AIWorks,Pune,1-2 years,MCA;B.Tech,Python;Machine Learning;TensorFlow;SQL
+Data Scientist,DataMinds,Bangalore,3+ years,MCA;B.Tech,Python;Machine Learning;Statistics;SQL;Deep Learning
+Python Developer,CodeCraft,Noida,Fresher,BCA;MCA;B.Tech,Python;Django;SQL;Git
+Backend Developer,ServerSide,Delhi,1-2 years,BCA;MCA;B.Tech,Python;Flask;SQL;REST API;Git
+Web Developer,PixelWorks,Mumbai,Fresher,BCA;BSc;B.Tech,HTML;CSS;JavaScript;React
+Full Stack Developer,StackLabs,Pune,3+ years,MCA;B.Tech,JavaScript;React;Node.js;SQL;Git
+Business Analyst,BizEdge,Gurgaon,1-2 years,BCA;MCA;B.Tech;BSc,SQL;Excel;Power BI;Communication
+BI Developer,InsightHub,Chennai,1-2 years,BCA;MCA;B.Tech,SQL;Power BI;Tableau;Excel
+Data Engineer,PipelineCo,Hyderabad,3+ years,MCA;B.Tech,Python;SQL;Spark;ETL;AWS
+Software Tester,QualityFirst,Noida,Fresher,BCA;BSc;B.Tech,Manual Testing;Selenium;SQL;Java
+Java Developer,JavaHouse,Chennai,1-2 years,BCA;MCA;B.Tech,Java;Spring Boot;SQL;Git
+AI Intern,NeuralNest,Bangalore,Fresher,BCA;MCA;B.Tech,Python;Machine Learning;Pandas;NumPy
+Cloud Support Associate,SkyOps,Mumbai,Fresher,BCA;B.Tech;Other,AWS;Linux;Networking;Python
