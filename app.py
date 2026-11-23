@@ -16,7 +16,7 @@ st.title("💼 Job Recommendation System")
 st.caption("Enter your profile and get jobs ranked by how well they match. "
            "Suggestions are guidance only and do not guarantee a job.")
 
-# ------------------------------------------------------------------ user input
+# user input
 with st.sidebar:
     st.header("Your profile")
     skills = st.text_area("Skills (comma separated)", "Python, SQL, Machine Learning")
@@ -28,7 +28,7 @@ with st.sidebar:
     top_n = st.slider("Number of recommendations", 3, 15, 5)
     go = st.button("Recommend jobs", type="primary", use_container_width=True)
 
-# --------------------------------------------------------------------- results
+#  results
 if go:
     if not skills.strip():
         st.warning("Please enter at least one skill.")
